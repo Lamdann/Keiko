@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("opensans-bold.eot"); /* IE9 */
+    src: url("opensans-bold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("opensans-bold.woff") format("woff"), /* chrome, firefox */
+    url("opensans-bold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("opensans-bold.svg#Open Sans") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+

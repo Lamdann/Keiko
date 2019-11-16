@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Open Sans Semibold";
+    src: url("opensans-semibold.eot"); /* IE9 */
+    src: url("opensans-semibold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("opensans-semibold.woff") format("woff"), /* chrome, firefox */
+    url("opensans-semibold.ttf") format("truetype"), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url("opensans-semibold.svg#Open Sans Semibold") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
